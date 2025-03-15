@@ -1,4 +1,4 @@
 
-# Fashion MNIST
+# Unsupervised-Learning-on-Fashion-MNIST-Data
 
 👕 Fashion-MNIST is a dataset of [Zalando's](https://jobs.zalando.com/en/tech/?gh_src=281f2ef41us) article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. it was intend for Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
